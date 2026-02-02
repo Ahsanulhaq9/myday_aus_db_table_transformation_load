@@ -1,0 +1,14 @@
+INSERT INTO buyer_properties (id, buyer_contact_id, property_id, created_at, updated_at) VALUES ('1', '1', '200164', '2024-10-06 16:10:15', '2024-10-06 16:10:15');
+INSERT INTO buyer_properties (id, buyer_contact_id, property_id, created_at, updated_at) VALUES ('2', '2', '200055', '2024-10-06 16:10:15', '2024-10-06 16:10:15');
+INSERT INTO buyer_properties (id, buyer_contact_id, property_id, created_at, updated_at) VALUES ('3', '3', '200245', '2024-10-06 16:10:15', '2024-10-06 16:10:15');
+INSERT INTO buyer_properties (id, buyer_contact_id, property_id, created_at, updated_at) VALUES ('4', '4', '200275', '2024-10-06 16:10:15', '2024-10-06 16:10:15');
+INSERT INTO buyer_properties (id, buyer_contact_id, property_id, created_at, updated_at) VALUES ('5', '5', '200311', '2024-10-06 16:10:15', '2024-10-06 16:10:15');
+INSERT INTO buyer_properties (id, buyer_contact_id, property_id, created_at, updated_at) VALUES ('6', '6', '200202', '2024-10-06 16:10:15', '2024-10-06 16:10:15');
+INSERT INTO buyer_properties (id, buyer_contact_id, property_id, created_at, updated_at) VALUES ('7', '7', '200046', '2024-10-06 16:10:15', '2024-10-06 16:10:15');
+INSERT INTO buyer_properties (id, buyer_contact_id, property_id, created_at, updated_at) VALUES ('8', '8', '200455', '2024-10-06 16:10:15', '2024-10-06 16:10:15');
+INSERT INTO buyer_properties (id, buyer_contact_id, property_id, created_at, updated_at) VALUES ('9', '9', '200425', '2024-10-06 16:10:15', '2024-10-06 16:10:15');
+INSERT INTO buyer_properties (id, buyer_contact_id, property_id, created_at, updated_at) VALUES ('10', '10', '200324', '2024-10-06 16:10:15', '2024-10-06 16:10:15');
+INSERT INTO buyer_properties (id, buyer_contact_id, property_id, created_at, updated_at) VALUES ('11', '11', '200241', '2024-10-06 16:10:15', '2024-10-06 16:10:15');
+INSERT INTO buyer_properties (id, buyer_contact_id, property_id, created_at, updated_at) VALUES ('13', '13', '200091', '2024-10-06 16:10:15', '2024-10-06 16:10:15');
+INSERT INTO buyer_properties (id, buyer_contact_id, property_id, created_at, updated_at) VALUES ('14', '14', '200372', '2024-10-06 16:10:15', '2024-10-06 16:10:15');
+INSERT INTO buyer_properties (id, buyer_contact_id, property_id, created_at, updated_at) VALUES ('15', '15', '200156', '2024-10-06 16:10:15', '2024-10-06 16:10:15');

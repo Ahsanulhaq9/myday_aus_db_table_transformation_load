@@ -1,0 +1,1 @@
+INSERT INTO companies (id, company_name, address, phone, slug, created_at, updated_at) VALUES ('1', 'Moment Pty Ltd', 'Victoria', '0434 111 565', 'Moment Group', '2024-10-07 12:06:52', '2024-10-07 12:06:52');
